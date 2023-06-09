@@ -1,0 +1,2 @@
+print()
+if a == b:
