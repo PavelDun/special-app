@@ -20,3 +20,8 @@ print("y = ", k, " * x + ", b)
 a = 0
 b = 0
 a = int(input())
+
+
+
+
+c = 22
