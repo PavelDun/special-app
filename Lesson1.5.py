@@ -20,4 +20,6 @@ print("y = ", k, " * x + ", b)
 a = 0
 b = 0
 c = a + b
+d = c + a * b
+print(d)
 
