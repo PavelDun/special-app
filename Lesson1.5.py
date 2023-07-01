@@ -17,7 +17,18 @@ b = y2 - k * x2
 
 print("y = ", k, " * x + ", b)
 
+<<<<<<< HEAD
 a = 3
 b = 5
 a = int(input())
 x = a + b
+=======
+a = 0
+b = 0
+a = int(input())
+
+
+
+
+c = 22
+>>>>>>> new-contacts
