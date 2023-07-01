@@ -17,7 +17,7 @@ b = y2 - k * x2
 
 print("y = ", k, " * x + ", b)
 
-a = 0
-b = 0
+a = 3
+b = 5
 a = int(input())
 x = a + b
