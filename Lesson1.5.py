@@ -23,3 +23,6 @@ c = a + b
 d = c + a * b
 print(d)
 
+print()
+
+
